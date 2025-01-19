@@ -7,7 +7,7 @@ Targeted Action: The robot performs precise weed elimination, minimizing crop da
 Automation: Reduces manual labor and enhances productivity in farming.
 Dataset
 The dataset used for training the model is publicly available and can be accessed here:
-Dataset Link
+https://drive.google.com/drive/folders/1SVInFL3UF56uF4UUeGkKD6TV5KORNC0C?usp=sharing
 
 Machine Learning Model
 The trained machine learning model is not included in this repository. To obtain the model, please contact the repository owner directly.
