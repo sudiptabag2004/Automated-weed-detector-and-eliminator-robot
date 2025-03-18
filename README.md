@@ -18,3 +18,9 @@ Weed Classification: The ML model processes the images to identify weeds.
 Elimination: The robot takes targeted action to eliminate the weeds.
 Contribution
 Contributions to enhance functionality, improve detection accuracy, or expand the dataset are welcome!
+![WhatsApp Image 2024-11-08 at 22 52 41](https://github.com/user-attachments/assets/bfe89591-2509-4c4a-8a2e-be30277c96c9)
+![WhatsApp Image 2024-11-08 at 22 52 41 (1)](https://github.com/user-attachments/assets/e21a7770-01a1-46ba-a34b-17c5ae0d773a)
+
+
+https://github.com/user-attachments/assets/184ea1f5-6048-4cae-a446-73719b8af365
+
